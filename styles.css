@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+
+.Main{
+	background-color:#f5f5f5;
+	padding:40px
+}
+
+h1{
+	padding20px;
+}
+
+.dis{
+	
+	width:100%;
+    background-color:white;
+    margin-bottom:25px;
+}
+
+
+
+.author{
+ text-align: right;
+ padding:10px
+
+}
+
+.text{
+padding:10px
+
+
+
+}
